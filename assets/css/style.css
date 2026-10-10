@@ -278,6 +278,17 @@ h3 {
   padding: 4px 11px;
   white-space: nowrap;
 }
+.chip-int {
+  font: 500 11px var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: var(--r-pill);
+  padding: 4px 11px;
+  white-space: nowrap;
+}
 .card-link {
   margin-left: auto;
   display: inline-flex;
