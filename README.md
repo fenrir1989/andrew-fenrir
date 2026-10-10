@@ -1,6 +1,6 @@
 # andrew-fenrir
 
-Сайт-портфолио: AI-инженерия и автоматизация. Проекты Андрея Фенрира (fenrir1989).
+Сайт-портфолио: AI-инженерия и автоматизация. Проекты Андрея Волк-Белого | Andrew Fenrir (fenrir1989).
 
 Живёт на GitHub Pages: https://fenrir1989.github.io/andrew-fenrir/
 
